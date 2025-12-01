@@ -130,19 +130,7 @@ Feature importance graph
 
 Prediction insights
 
-📂 Project Structure
-📦 Customer-Churn-Prediction
-├── 📁 frontend/              # UI (HTML, CSS, JS or React)
-├── 📁 backend/               # Python backend (Flask/FastAPI)
-│   ├── train_churn_binary.py # Main ML pipeline
-│   ├── model.pkl             # Saved churn prediction model
-│   ├── metrics.json          # Output metrics for frontend
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
-├── cleaned Telco Customer Churn data.zip
-├── main.py                   # App entry point
-└── README.md
+
 
 📊 Sample Results
 
