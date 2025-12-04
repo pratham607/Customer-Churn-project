@@ -191,6 +191,8 @@ Add automated EDA report generation
 Dataset: IBM Telco Customer Churn Dataset
 UI Framework: Emergent UI
 
+Note - Their are some bugs and I am fixing it , so stay tuned
+
 ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
